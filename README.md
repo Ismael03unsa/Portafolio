@@ -1,5 +1,4 @@
 # Portafolio
-{
     "<center> <h1>Universidad Nacional de San Agustín de Arequipa</h1> </center> \n",
     "<center> <h1>Escuela Profesional de Ingeniería de Telecomunicaciones</h1> </center> \n",
     "\n",
