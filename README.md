@@ -6,3 +6,4 @@
 
 ### Estudiante: Ismael Valentin Cáceres Gallegos
 
+###  Temas a tratar como Pandas, Numpy, EDA y muchos más
