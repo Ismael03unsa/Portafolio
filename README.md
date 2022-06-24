@@ -8,4 +8,4 @@
 
 ###  Temas a tratar como Pandas, Numpy, Matplotlib y muchos más
 
-#### Descripc  ssssió y procedimiento
+#### Encontrandose descripción y procedimiento con detalle
