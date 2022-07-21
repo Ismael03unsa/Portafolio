@@ -1,11 +1,5 @@
-# Análisis de
-
-## DESCUBRIENDO UN NUEVO MUNDO DE...
-
-![alt text](https://decidesoluciones.es/wp-content/uploads/2019/09/Iqvia-acquires-NLP-provider-Linguamatics_wrbm_large.jpg)
-
-### Estudiante: Ismael Valentin Cáceres Gallegos
-
-###  Temas a tratar como Pandas, Numpy, Matplotlib y muchos más
-
-#### "Encontrandose descripción y procedimiento con detalle"
+# Análisis de Datos English Premier League (EPL)-2020-2021) mediante Python utilzando las librerías de pandas, numpy, matplotlib y seaborn
+## Se puede ver en el documento lo siguiente:
+## Descripción del DataFrame detallada
+## Vizualización de Gráficas y Estadísticas del DataFrame:
+## Las Gráficas presentadas son ciruclares, barras y BoxPlot
